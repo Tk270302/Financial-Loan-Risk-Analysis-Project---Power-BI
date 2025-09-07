@@ -1,11 +1,10 @@
-# Financial-Loan-Risk-Analysis-Project---Power-BI
 # Financial Risk & Loan Analytics (Power BI)
 
 An end-to-end **loan risk** analytics project built in **Power BI** using the **Home Credit Default Risk** dataset (Kaggle).  
 The report replicates real analyst tasks: data cleaning, feature engineering, risk KPIs, segmentation, drillthrough exploration, and presentation-ready visuals.
 
 **Live Report:** [Power BI (https://app.powerbi.com/links/HB3JwzkUl-?ctid=34c6a16f-5c98-4f1c-9e10-5b1d293bf1d4&pbi_source=linkShare)](#)  
-**LinkedIn Post:** [LinkedIn link](#)
+**LinkedIn Post:** [https://www.linkedin.com/posts/talishkhan_new-power-bi-project-financial-risk-activity-7370357429106057216-qNyH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEC7ouYB3m_UDCnc_fFOISkbK99LF40bYPA](#)
 
 ---
 
